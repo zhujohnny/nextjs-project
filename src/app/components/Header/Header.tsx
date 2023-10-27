@@ -5,7 +5,7 @@ import { Avatar, Button, DropdownMenu, Flex, Heading, Text, TextField } from "@r
 
 const Breadcrumb = () => (
     <Text>
-      Riot Games >
+      Riot Games
     </Text>
 );
 
